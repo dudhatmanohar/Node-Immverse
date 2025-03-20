@@ -27,8 +27,11 @@ CREATE DATABASE assignment;
 Category APIs
 Method	Endpoint	Description
 POST	/categories	Add a new category
+
 GET	/categories	List all categories
+
 PUT	/categories/:id	Update category
+
 DELETE	/categories/:id	Delete category
 
 Product APIs
