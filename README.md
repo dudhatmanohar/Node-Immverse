@@ -47,7 +47,6 @@ GET	/products	List all products
 PUT	/products/:id	Update product
 
 DELETE	/products/:id	Delete product
----------------------------------------------------**************************---------------------
 
 ## Run the server at local host 3000
 ## node server.js
