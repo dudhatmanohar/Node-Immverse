@@ -24,8 +24,10 @@ CREATE DATABASE assignment;
 --> http://localhost:3000/api/products
 -->http://localhost:3000/api/categories
 
-Category APIs
+## Category APIs
+
 Method	Endpoint	Description
+
 POST	/categories	Add a new category
 
 GET	/categories	List all categories
@@ -34,7 +36,8 @@ PUT	/categories/:id	Update category
 
 DELETE	/categories/:id	Delete category
 
-Product APIs
+## Product APIs
+
 Method	Endpoint	Description
 
 POST	/products	Add a new product
